@@ -4,6 +4,4 @@
 
 ### September
 
-Applying Data Analytics in Finance
-
-
+[Applying Data Analytics in Finance]("./files/Coursera - Applying Data Analytics in Finance.pdf")

@@ -4,9 +4,9 @@
 
 ### November
 
-[Applying Data Analytics in Marketing](files/Applying Data Analytics in Marketing.pdf)
+[Applying Data Analytics in Marketing](files/Applying_Data_Analytics_in_Marketing.pdf)
 
-![](/files/Applying Data Analytics in Marketing.png)
+![](/files/Applying_Data_Analytics_in_Marketing.png)
 
 ### September
 

@@ -1,6 +1,6 @@
 # Applying Analytics Across Business Functions
 
-**Part 1**
+## Part 1
 
 - Introduction to Financial Analytics
 - R language
@@ -33,7 +33,7 @@
 - Midterm Project
   - Technical Analysis of three stocks - which one to purchase
 
-**Part 2**
+## Part 2
 
 - Measurement and Scaling
   - Customer satisfaction and marketing analytics

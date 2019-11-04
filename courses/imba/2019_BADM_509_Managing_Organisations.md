@@ -1,6 +1,6 @@
 # Managing Organizations
 
-## Part 1 
+## Part 1
 
 - Corporate Governance and the Role of Managers in Value Creation
   - Role of managers in the process of value creation

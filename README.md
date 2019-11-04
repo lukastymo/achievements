@@ -6,7 +6,7 @@
 
 [What I've learned](https://github.com/lukastymo/achievements/blob/master/courses/imba/courses/imba/2019_BADM_509_Managing_Organisations.md#part-1)
 
-[Designing the Organization: From Strategy to Organizational Structure](files/Coursera_Designing _the_Organization_From_Strategy_to_Organizational_Structure.pdf)
+[Designing the Organization: From Strategy to Organizational Structure](files/Coursera_Designing_the_Organization_From_Strategy_to_Organizational_Structure.pdf)
 
 ![](/files/Coursera_Designing_the_Organization_From_Strategy_to_Organizational_Structure.png)
 

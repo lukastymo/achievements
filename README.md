@@ -8,7 +8,7 @@
 
 [Designing the Organization: From Strategy to Organizational Structure](files/Coursera_Designing _the_Organization_From_Strategy_to_Organizational_Structure.pdf)
 
-![](/files/Coursera_Designing _the_Organization_From_Strategy_to_Organizational_Structure.png)
+![](/files/Coursera_Designing_the_Organization_From_Strategy_to_Organizational_Structure.png)
 
 
 [What I've learned](https://github.com/lukastymo/achievements/blob/master/courses/imba/2019_MBA_592_Applying_Analy_Across_Bus_Func.md#part-1)

@@ -6,8 +6,9 @@
 
 |Name|Start Date|Expected End Date|Progress|Link|
 |----|----------|-----------------|--------|----|
-|Practical Machine Learning (PL) - 8-week course|28/10/2019|20/12/2019| xxxxx_____|[dataworkshop](https://dataworkshop.eu/)|
-|English for Academic Study 10 classes|1/11/2019|1/12/2019|xxxxxxxx__|[italki.com](italki.com)|
+|Practical Machine Learning (PL) - 8-week course|28/10/2019|20/12/2019| &blk34;&blk34;&blk34;&blk34;&blk34;&blk14;&blk14;&blk14;&blk14;&blk14;|[dataworkshop](https://dataworkshop.eu/)|
+|English for Academic Study 10 classes|1/11/2019|1/12/2019|&blk34;&blk34;&blk34;&blk34;&blk34;&blk34;&blk34;&blk34;&blk14;&blk14;|[italki.com](italki.com)|
+|MBA: Managing the Organization: From Organizational Design to Execution|05/11/2019|17/12/2019|&blk34;&blk34;&blk34;&blk34;&blk34;&blk34;&blk34;&blk34;&blk14;&blk14;|University of Illinois
 
 ### November
 

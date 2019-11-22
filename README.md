@@ -9,6 +9,12 @@
 |MBA: Managing the Organization: From Organizational Design to Execution|05/11/2019|17/12/2019|&blk34;&blk34;&blk34;&blk34;&blk34;&blk34;&blk34;&blk34;&blk14;&blk14;|University of Illinois
 |Crossing the chasm|21/11/2019| |&blk14;&blk14;&blk14;&blk14;&blk14;&blk14;&blk14;&blk14;&blk14;&blk14;|Book
 
+## Next
+
+|Name|Source|
+|----|------|
+|Reinforcement Learning specialization|Coursera|
+
 ## Finished (2019)
 
 ### November

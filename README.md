@@ -2,6 +2,13 @@
 
 ## 2019
 
+## In Progress
+
+|Name|Start Date|Expected End Date|Progress|Link|
+|--|--|--|
+|Practical Machine Learning (PL) - 8-week course|28/10/2019|20/12/2019| xxxxx-----|[dataworkshop](https://dataworkshop.eu/)|
+|English for Academic Study 10 classes|1/11/2019|1/12/2019|xxxxxxxx--|[italki.com](italki.com)|
+
 ### November
 
 [What I've learned](https://github.com/lukastymo/achievements/blob/master/courses/imba/2019_BADM_509_Managing_Organisations.md#part-1)

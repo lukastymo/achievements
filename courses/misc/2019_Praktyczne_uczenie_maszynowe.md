@@ -1,0 +1,36 @@
+# Praktyczne uczenie maszynowe (2019)
+
+- Module 1
+	- Read data (csv, h5) and data analysis
+	- Preparing data and Feature engineering
+	- Data Encoding
+	- Learning Curve
+- Module 2
+	- Success Metrics
+		- Regression
+			- MSE
+			- MAE
+			- RMSE
+			- RMSLE
+			- R-squared
+		- Classification
+			- Accuracy
+			- Cunfusion Matrix
+			- Receiving Operating Characteristics (ROC)
+	- Validation
+		- Hold out validation
+		- Bootstrapping
+		- Cross-Validation: k-fold
+		- Stratified k-fold
+- Module 3
+	- Gradient Boosting
+		- XGBoost
+		- LightGBM
+		- CatBoost
+	- Hyperparameters
+		- GridSearch (GridSearchCV)
+		- Random Search (RandomizedSearchCV)
+		- Bayesian optimization (hyperopt)
+- Module 4
+	- Future engineering
+	- Nested Cross Validation

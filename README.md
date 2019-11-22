@@ -11,9 +11,12 @@
 
 ## Next
 
-|Name|Source|
-|----|------|
-|Reinforcement Learning specialization|Coursera|
+|Name|Source|Why|
+|----|------|----|
+|Reinforcement Learning specialization|Coursera|RL is fascinating|
+|Akka|TBD|Needed for my next contract|
+|Lagom|TBD|Needed for my next contract|
+|Codeforces: Solve 56 Div2C|codeforces.com|It's keep getting back to me|
 
 ## Finished (2019)
 

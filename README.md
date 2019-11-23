@@ -25,6 +25,8 @@
 |Revolution Required|Book||
 |The attention Merchant|Book||
 |The time is different|Book||
+|The 4 Disciplines of Execution: Achieving Your Wildly Important Goals|Audiobook||
+|Hit Refresh|Audiobook||
 
 ## Finished (2019)
 

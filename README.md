@@ -17,6 +17,7 @@
 |Akka|TBD|Needed for my next contract|
 |Lagom|TBD|Needed for my next contract|
 |Codeforces: Solve 56 Div2C|codeforces.com|It's keep getting back to me|
+|Revolution Required|Book||
 
 ## Finished (2019)
 

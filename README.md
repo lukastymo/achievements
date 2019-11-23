@@ -18,6 +18,7 @@
 |Lagom|TBD|Needed for my next contract|
 |Codeforces: Solve 56 Div2C|codeforces.com|It's keep getting back to me|
 |Revolution Required|Book||
+|AI Superpowers: China, Silicon Valley, and the New World Order|Book||
 
 ## Finished (2019)
 

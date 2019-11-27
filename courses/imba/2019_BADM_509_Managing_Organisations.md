@@ -28,3 +28,43 @@
   - Coordination and control aspects of organizational design
   - Lab 5: Article: Two routes to resilience
   - Lab 6: Team assignment
+
+## Part 2
+
+- Organizational Life Cycle - Innovation, Change and Redesign
+	- Life Cycle Process
+	- Symptoms of Ineffective Design
+	- Alternative Corrective Acctions
+	- Introduction to Change
+	- Rational Elements
+	- Emotional Elements
+	- Situational Elements
+	- The  Logic of Organizational Change
+	- Lab 7: What Peter Browning should do
+	- Lab 8: Team assignment
+- Managerial Decision Making and Organization Design
+	- Decision Making in Organization
+	- Perspective Models
+	- Descriptive Models
+	- Fundamental Attribution Errors and Related Fallacies
+	- Ciases Related to Availability and Representativeness Heuristics
+	- Critical Traps in Decision Making
+	- Organizational Consequences and Managerial Actions
+	- Lab 9: Decision making biases
+- Managing HR - Building Culture and Identity in Organizations
+	- What is Culture
+	- Culture vs Values
+	- Major Drivers of Culture
+	- Values, Culture and Value Creation
+	- Finding the Rigth People and Retaining Them HR
+	- High Commitment Workforce Perspective
+	- High Flexibility Workforce Practice
+	- Lab 10: How to make management a noble profession
+	- Lab 11: Team assignment
+- Top Management Teams, Managerial Succession and Organizational Concequences
+	- The Top Management Team
+	- Leadership Succession at Yahoo
+	- Key Elements of Leadership Development
+	- New CEOs and Organizational Tensions
+	- Changing Roles of Senior Managers
+	- Final Exam

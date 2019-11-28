@@ -6,7 +6,7 @@
 
 [What I've learned](https://github.com/lukastymo/achievements/blob/master/courses/imba/2019_BADM_509_Managing_Organisations.md#part-2)
 
-[Designing the Organization: From Strategy to Organizational Design to Execution](files/Coursera_Designing_the_Organization_From_Organizational_Design_to_Execution.pdf)
+[Designing the Organization: From Organizational Design to Execution](files/Coursera_Designing_the_Organization_From_Organizational_Design_to_Execution.pdf)
 
 ![](/files/Coursera_Designing_the_Organization_From_Organizational_Design_to_Execution.png)
 
